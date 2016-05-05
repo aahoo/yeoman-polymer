@@ -1,4 +1,4 @@
-FROM aahoo/yeoman:latest
+FROM aahoo/yeoman
 MAINTAINER aahoo <github.com/aahoo>
 RUN npm install -g generator-polymer
 RUN npm cache clear
