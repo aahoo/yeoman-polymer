@@ -1,5 +1,4 @@
-# yeoman + generator-polymer docker image
-This is only the Dockerfile.
+# [yeoman + generator-polymer docker image](https://hub.docker.com/r/aahoo/yeoman-polymer/)
 
 ## Test Drive
 1. run: `docker run -it --rm -p 5000:5000 aahoo/yeoman-polymer`
