@@ -18,7 +18,6 @@ Mount a host directory to the container
 5. open browser > "virtual machine IP":5000 (e.g. http://192.168.99.100:5000/)
 
 ### Need to do for the following runs
-1. `cd PROJECT_FOLDER`
-2. `docker start -i yo`
-3. `gulp serve`
-4. open browser > "virtual machine IP":5000 (e.g. http://192.168.99.100:5000/)
+1. `docker start -i yo`
+2. `gulp serve`
+3. open browser > "virtual machine IP":5000 (e.g. http://192.168.99.100:5000/)
